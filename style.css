@@ -1,0 +1,28 @@
+ .homepage{
+   background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 20vh;
+  
+ 
+}
+h1 {
+    color: white; 
+}
+ul{
+    background-color: white;
+    width: 600px;
+}
+h2{
+    color: white;
+  
+}
+input{
+    height: 4vh;
+    border-radius: 50px;
+}
+button{
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+}
